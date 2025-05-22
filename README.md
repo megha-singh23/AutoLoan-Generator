@@ -1,6 +1,8 @@
 <B>Auto Loan Generator</B> <br>
 📌 Project Overview
 Auto Loan Generator is a web-based application that allows users to apply for auto loans, track their loan status, and manage loan-related information. Administrators can review and approve/reject loan applications. The project is built using Java Servlets, JSP, and MySQL without Spring.
+
+
 <br><br>
 ✨<b> Features</b><br><br>
 ✅ User Registration & Login<br>
